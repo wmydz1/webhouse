@@ -67,7 +67,7 @@
       handleSuccess (res) {
 
 
-        let img = `${this.bucketHost}/${res.key}`;
+        let img = `${this.bucketHost}${res.key}`;
         console.log("七牛地址 " + img);
         // 前端给后台的 key
         console.log(res.key);
