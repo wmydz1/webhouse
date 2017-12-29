@@ -4,7 +4,7 @@ export default {
 	imgPrefix: 'https://cdn.juhehuli.com/',
 	app: {
 		name: '聚合互利 赚钱 +1',
-		name2: '聚合互利 赚钱 + 2'
+		name2: '聚合互利 赚钱 + 2 add new func!'
 
 	}
 }
